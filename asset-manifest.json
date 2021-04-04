@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netflixxx/static/css/main.5117999b.chunk.css",
+    "main.js": "/netflixxx/static/js/main.cb7d8c4e.chunk.js",
+    "main.js.map": "/netflixxx/static/js/main.cb7d8c4e.chunk.js.map",
+    "runtime-main.js": "/netflixxx/static/js/runtime-main.986808c4.js",
+    "runtime-main.js.map": "/netflixxx/static/js/runtime-main.986808c4.js.map",
+    "static/js/2.ac72e6fc.chunk.js": "/netflixxx/static/js/2.ac72e6fc.chunk.js",
+    "static/js/2.ac72e6fc.chunk.js.map": "/netflixxx/static/js/2.ac72e6fc.chunk.js.map",
+    "static/js/3.a17ed135.chunk.js": "/netflixxx/static/js/3.a17ed135.chunk.js",
+    "static/js/3.a17ed135.chunk.js.map": "/netflixxx/static/js/3.a17ed135.chunk.js.map",
+    "index.html": "/netflixxx/index.html",
+    "static/css/main.5117999b.chunk.css.map": "/netflixxx/static/css/main.5117999b.chunk.css.map",
+    "static/js/2.ac72e6fc.chunk.js.LICENSE.txt": "/netflixxx/static/js/2.ac72e6fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.986808c4.js",
+    "static/js/2.ac72e6fc.chunk.js",
+    "static/css/main.5117999b.chunk.css",
+    "static/js/main.cb7d8c4e.chunk.js"
+  ]
+}
